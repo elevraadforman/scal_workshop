@@ -80,8 +80,8 @@ class Rock:
 
 # Creating an instances of rock
 Berea = Rock("sandstone", 0.21, 400)
-Austin_chalk= Rock("chalk", 0.38, 50)
-Bachalau_carbonate = Rock("carbonate", 0.29, 1000)
+#Austin_chalk= Rock("chalk", 0.38, 50)
+#Bachalau_carbonate = Rock("carbonate", 0.29, 1000)
 
 
 
