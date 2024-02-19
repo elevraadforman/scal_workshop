@@ -78,6 +78,9 @@ class Rock:
         self.LET = LET( Lw, Ew, Tw, Lo, Eo, To, self.rock_type)
 
 
+
+
+
 # Creating an instances of rock
 Berea = Rock("sandstone", 0.21, 400)
 #Austin_chalk= Rock("chalk", 0.38, 50)
@@ -96,3 +99,5 @@ Berea.print_properties()
 
 # Calling method plotLET of LET through objectA
 Berea.LET.plotLET()
+
+    #if __name__ == '__main__':
